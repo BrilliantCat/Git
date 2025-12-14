@@ -1,0 +1,10 @@
+.main{
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(155, 230, 166, 0.542);
+    padding: 50px;
+    border-radius: 25px;
+    box-shadow: 0 10px 15px rgba(142, 140, 140, 0.854);
+}

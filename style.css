@@ -1,3 +1,8 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
 .main{
     margin: 100px;
     display: flex;
@@ -7,5 +12,10 @@
     padding: 50px;
     border-radius: 25px;
     box-shadow: 0 10px 15px rgba(142, 140, 140, 0.854);
-
+    width: 100vh;
+}
+.main>img{
+    display: flex;
+    width: 85%;
+    border-radius: 25px;
 }
